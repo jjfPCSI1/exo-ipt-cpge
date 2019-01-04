@@ -32,19 +32,4 @@ $$
 {% endhint %}
 
 {% endtab %}
-
-{% tabs %}
-{% tab title="First Tab" %}
-Voyons voir
-{% endtab %}
-
-{% tab title="Caché dans un onglet" %}
-Une manière de mettre la solution ?
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
 {% endtabs %}
-
-
