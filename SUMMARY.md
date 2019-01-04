@@ -5,6 +5,6 @@
 ## Complexité
 
 * [Complexité](complexite/complexite/README.md)
-  * [Factorielle](complexite/complexite/factorielle.md)
   * [Maximum](complexite/complexite/maximum.md)
+  * [Factorielle](complexite/complexite/factorielle.md)
 
