@@ -15,21 +15,21 @@ def maximum(liste):
     return element
 ```
 {% endtab %}
-{% tab title="Indication" %}
 
+{% tab title="Indication" %}
 {% hint style="info" %}
 Pensez voir à ce qu'il en coûte de regarder les éléments.
 {% endhint %}
 {% endtab %}
-{% tab title="Corrigé" %}
 
+{% tab title="Corrigé" %}
 {% hint style="success" %}
-On fait une assignation après lecture d'un élément dans une liste (2 op.).
-Puis $n$ fois un test (1 op.) avec, parfois, une assignation (1 op.), soit $n$ à $2n$ opérations dans la boucle. Au total
+On fait une assignation après lecture d'un élément dans une liste \(2 op.\). Puis $n$ fois un test \(1 op.\) avec, parfois, une assignation \(1 op.\), soit $n$ à $2n$ opérations dans la boucle. Au total $$a = b$$ 
+
 $$
 n + 2 <= C(n) \leq  2n + 2 = O(n)
 $$
 {% endhint %}
-
 {% endtab %}
 {% endtabs %}
+
