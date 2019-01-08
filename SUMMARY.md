@@ -11,5 +11,6 @@
 
 ## Commentaires
 
-* [Comment commenter efficacement les codes](commentaires/comment-commenter-efficacement-les-codes.md)
+* [Comment commenter efficacement les codes](commentaires/comment-commenter-efficacement-les-codes/README.md)
+  * [Fusion de deux listes triées](commentaires/comment-commenter-efficacement-les-codes/fusion-de-deux-listes-triees.md)
 
